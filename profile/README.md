@@ -1,9 +1,13 @@
 # Voxel Network
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fvxl.gg)
-![Join Discord](https://img.shields.io/discord/000000000000000000?label=Discord) <!-- Update with real server ID -->
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fvxl.gg)](https://vxl.gg)
+[![Join Discord](https://img.shields.io/discord/1392973740341727433?label=Discord)](https://discord.vxl.gg) <!-- Update with real server ID -->
 
 > **Voxel Network** is a next‑generation **Minecraft** minigame network focused on fast‑paced, community‑driven gameplay and open‑source collaboration.
+
+---
+
+To join, connect to **`vxl.gg`**.
 
 ---
 
@@ -17,11 +21,7 @@
 
 ## 🎮 Join the Server
 
-| Address  | Minecraft Version | Status |
-|----------|-------------------|--------|
-| `vxl.gg` | 1.21.x (Java)     | Online |
-
-Add the IP above to your multiplayer list. No whitelist, no mods required—just hop in and play!
+Add the IP **`vxl.gg`** to your multiplayer list. No whitelist, no mods required, just hop in and play!
 
 > **Bedrock support** is in the works. Stay tuned!
 
@@ -36,18 +36,18 @@ Voxel Network is built by a passionate team of developers, designers, and Minecr
 - Work on real-world, production-ready systems.
 - Build cutting-edge minigames and infrastructure.
 - Learn alongside experienced developers.
-- Contribute to an open-source community project with thousands of players.
+- Contribute to a community project with thousands of players.
 
 ### Who We're Looking For
 
 - **Java Developers** – Plugin development using Spigot or Paper.
-- **Infrastructure Engineers** – Kubernetes, CI/CD, and cloud tooling.
+- **Infrastructure Engineers** – AWS, Kubernetes, CI/CD, and cloud tooling.
 - **Web Developers** – React, Next.js, and backend services.
 - **Game Designers** – Help concept and balance new minigames.
 
 ### How to Apply
 
-1. Join our [Discord server](https://discord.gg/voxelnetwork).
+1. Join our [Discord server](https://discord.vxl.gg).
 2. Post in `#dev-applications` with a short intro and examples of your work (GitHub links encouraged).
 3. We'll reach out to schedule a quick chat.
 
@@ -58,7 +58,7 @@ Voxel Network is built by a passionate team of developers, designers, and Minecr
 ## 📣 Community & Links
 
 - **Website:** <https://vxl.gg>
-- **Discord:** <https://discord.gg/voxelnetwork> <!-- Replace with actual invite -->
+- **Discord:** <https://discord.vxl.gg>
 
 ---
 
